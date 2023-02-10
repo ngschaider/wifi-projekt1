@@ -1,0 +1,2 @@
+DNS-Server auf Windows Server 2019 aufgesetzt.
+Router: 192.168.0.1
